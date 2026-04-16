@@ -74,5 +74,5 @@ spotify-popularity-analysis/
 
 ## Author
 
-**Nobel Tedros** — Virginia Tech, B.S. Computational Modeling & Data Analytics  
+**Nobel Tedros** — Virginia Tech, B.S. Computational Modeling & Data Analytics, M.S. Applied Data Science
 [LinkedIn](https://www.linkedin.com/in/nobel-tedros-b08044262)
